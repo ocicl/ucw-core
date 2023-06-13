@@ -1,0 +1,10 @@
+* ucw-core
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/ucw/ucw-core.git   |
+| commit  |   |
+| systems | ucw-core |
+|---------+-------------------------------------------|
+
