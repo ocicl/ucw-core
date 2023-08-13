@@ -2,8 +2,9 @@
 
 Core features of UnCommon Web
 
+
 |---------+-----------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/ucw/ucw-core.git |
-| commit  | 5d980aed                                            |
+| commit  | 5d980ae                                             |
 | systems | ucw-core ucw                                        |
 |---------+-----------------------------------------------------|
